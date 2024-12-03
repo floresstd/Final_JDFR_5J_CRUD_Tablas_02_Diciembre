@@ -1,2 +1,15 @@
 # Final_JDFR_5J_CRUD_Tablas_29_Noviembre
 Ferreteria CRUD Tablas en Django
+![Captura de pantalla (1586)](https://github.com/user-attachments/assets/15201440-e6ac-4ba8-9a07-93c102425acc)
+![Captura de pantalla (1585)](https://github.com/user-attachments/assets/5dc27a7a-bcce-4d2f-84e2-fde177b145c4)
+![Captura de pantalla (1584)](https://github.com/user-attachments/assets/bea9c1c1-1ec1-4d6c-8d70-90dde82779d2)
+![Captura de pantalla (1583)](https://github.com/user-attachments/assets/c7399e30-b9fc-4e9b-8ef6-1acdd2c18893)
+![Captura de pantalla (1582)](https://github.com/user-attachments/assets/fa58b29f-0682-40bc-91aa-5ee18dd7e05f)
+![Captura de pantalla (1581)](https://github.com/user-attachments/assets/5c70a94e-f194-4d32-b270-c5f7a21b4306)
+![Captura de pantalla (1580)](https://github.com/user-attachments/assets/96e7b52f-7801-40a4-bd7c-46b911653dfb)
+![Captura de pantalla (1579)](https://github.com/user-attachments/assets/9aa4ee82-265c-4463-872a-f67516846b64)
+![Captura de pantalla (1578)](https://github.com/user-attachments/assets/82194342-1916-4d06-9040-228e3052c643)
+![Captura de pantalla (1590)](https://github.com/user-attachments/assets/8a1eb1a6-df63-44e4-a495-53af7208ede0)
+![Captura de pantalla (1589)](https://github.com/user-attachments/assets/15901a55-ba3d-4629-a68e-a287843f1541)
+![Captura de pantalla (1588)](https://github.com/user-attachments/assets/63902204-7b25-4c3e-9265-c527cf3dd772)
+![Captura de pantalla (1587)](https://github.com/user-attachments/assets/ab00ac67-7180-45c9-bf38-4a0c00acb6ba)
